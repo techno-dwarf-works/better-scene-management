@@ -1,0 +1,38 @@
+{
+    "name": "BetterSceneManagement.Runtime",
+    "rootNamespace": "Better.SceneManagement.Runtime",
+    "references": [
+        "GUID:01df13aca8d01e24a911bcc3e8277031",
+        "GUID:1862b35041b066d42ab4d3caf773657b",
+        "GUID:af7fffdf1d83bc842b0f6e3a01efda16",
+        "GUID:35101f455c979e94c9a0a4793484b7fd",
+        "GUID:1c5574afb40e5fe4ca9e9c156009297b",
+        "GUID:d103b3c6d6cb0564d8d6543e9d797878",
+        "GUID:8bd4b41f8da90144d9006c4d926c9679"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.tdw.better.singletons",
+            "expression": "0.1.0",
+            "define": "BETTER_SINGLETONS"
+        },
+        {
+            "name": "com.tdw.better.services",
+            "expression": "0.1.3",
+            "define": "BETTER_SERVICES"
+        },
+        {
+            "name": "com.tdw.better.locators",
+            "expression": "0.1.12",
+            "define": "BETTER_LOCATORS"
+        }
+    ],
+    "noEngineReferences": false
+}
