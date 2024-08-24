@@ -1,5 +1,5 @@
 # Better Scene Management
-[![openupm](https://img.shields.io/npm/v/com.uurha.betterscenemanagement?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.uurha.betterscenemanagement/)
+[![openupm](https://img.shields.io/npm/v/com.tdw.better.scenemanagement?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.tdw.better.scenemanagement/)
 
 This plugin allows you to serialize scene asset in inspector for loaing via `SceneLoader`.
 
